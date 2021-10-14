@@ -22,6 +22,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Install angular-in-memory-web-api
+npm install angular-in-memory-web-api --save
+
 ## To launch the app
 Run `ng serve -o` from command prompt.
 
